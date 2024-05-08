@@ -73,7 +73,6 @@ img {
 }
 
 
-/* TOP HEADER SECTION */
 
 .top_header {
     background-color: #fff;
@@ -132,7 +131,6 @@ img {
 
 
 
-/* HEADER AREA SECTION */
 
 .header_area {
     background-color: #fff;
@@ -296,7 +294,6 @@ img {
 }
 
 
-/* BANNER AREA SECTION */
 
 .banner .banner_content {
     background-image: url(../images/banner-03.jpg);
@@ -334,8 +331,6 @@ img {
 }
 
 
-/* SECTION ONE */
-
   
 .section_one .section_one_left_image {
     position: relative;
@@ -365,7 +360,6 @@ img {
 }
 
 
-/* ===== accordion area ====== */
 
 .accordion_item {
 	margin: 5px auto;
@@ -430,8 +424,6 @@ img {
 }
 
 
-/* ==== SECTION RIGHT CARD AFTER ACCORDION ==== */
-
 .section_one .right_card {
     border-radius: 10px;
     box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.17);
@@ -470,8 +462,6 @@ img {
     font-weight: 400;
 }
 
-
-/* VIDEO SECTION HERE */
 
 .video_section {
     background-image: url(../images/video-bg.jpg);
@@ -519,7 +509,6 @@ img {
 }
 
 
-/* SECTION 2 */
 
 .section_2 {
     text-align: center;
@@ -566,7 +555,6 @@ img {
 }
 
 
-/* SECTION 3 */
 
 .section_3 {
     background-color: #e3e3e3;
@@ -648,7 +636,6 @@ img {
 }
 
 
-/* SECTION 4 */
 
 .section_4 .item {
     background-color: #f7f7f7;
@@ -729,7 +716,6 @@ img {
 }
 
 
-/* CONTACT US / GOOGLE MAP SECTION - 5 */
 
 .section_5 {
     position: relative;
@@ -853,8 +839,6 @@ img {
     background-color: #f35525;
 }
 
-
-/* FOOTER AREA SECTION  */
 
 footer {
     width: 100%;
