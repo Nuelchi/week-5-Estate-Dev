@@ -1,0 +1,109 @@
+@media screen and (max-width: 1200px) {
+    .header_area .main_nav .nav {
+        display: none;
+    }
+    
+    .header_area .media_hamburger_wrapper {
+        display: flex;
+    }
+
+    .sidebar_open .media_menu_items {
+        left: 0;
+    }
+
+    .banner_content .header_text {
+        width: 100%;
+        display: inline-block;
+        text-align: center;
+    }
+
+    .banner_content .header_text h2 {
+        display: inline-block;
+        font-size: 70px;
+        width: 100%;
+    }
+
+}
+
+
+@media screen and (min-width: 1200px) {
+    .media_menu_items {
+        display: none;
+    }
+}
+
+
+@media (max-width: 992px) {
+    .banner_content .header_text {
+        width: 100%;
+        display: inline-block;
+        text-align: center;
+    }
+
+    .banner_content .header_text h2 {
+        display: inline-block;
+        font-size: 55px;
+        width: 100%;
+    }
+    
+    .section_one .section_one_heading {
+        margin-top: 80px;
+    }
+    
+    .section_one .accordion_item:last-child{
+        margin-bottom: 60px;
+    }
+
+    .video_section_content {
+        margin-top: -140px;
+    }
+
+    .section_2 .wrapper .row .counter {
+        width: 280px;
+        padding-block: 25px;
+    }
+
+    .section_2 .wrapper .row div:nth-child(2){
+        display: block;
+        margin-block: 40px;
+    }
+
+    .section_3 .tabs-content ul.nav-tabs {
+        align-items: center;
+        justify-content: center;
+        margin-top: 10px;
+        gap: 20px;
+    } 
+
+    .section_3 .tab-content .section_3_img{
+        margin-block: 40px;
+    }
+
+    .section_5_content .email {
+        margin-right: 0;
+    }
+
+    .section_5_content .email {
+        margin-left: 0;
+        margin-block: 25px;
+    }
+
+    .section_5_content #section_5_form {
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 767px) {
+    .banner_content .header_text {
+        width: 100%;
+        display: inline-block;
+        text-align: center;
+    }
+
+    .banner_content .header_text h2 {
+        display: inline-block;
+        font-size: 45px;
+        width: 100%;
+    }
+   
+}
