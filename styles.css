@@ -295,15 +295,6 @@ img {
 
 
 
-.banner .banner_content {
-    background-image: url(../images/banner-03.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 180px 20% 220px 20%;
-    margin-top: 0px;
-    padding: ;
-}
 
 .banner .banner_content span {
     background-color: #fff;
@@ -314,6 +305,16 @@ img {
     padding: 6px 15px;
     display: inline-block;
     margin-bottom: 30px;
+}
+
+.banner .banner_content {
+    background-image: url(../images/banner-03.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 180px 20% 220px 20%;
+    margin-top: 0px;
+    padding: ;
 }
 
 .banner .banner_content span em {
